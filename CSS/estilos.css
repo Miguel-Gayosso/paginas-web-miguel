@@ -1,0 +1,100 @@
+
+#contenedor {  
+width: 1270px;
+height: 2640px;
+margin: 0.0em auto;
+padding: 0.0em;
+background: #74eb7ef8;
+padding-top: 20px;}
+#menu {
+    background: rgb(51, 247, 11);
+    width: 100%;
+    position: fixed;
+    z-index: 100; }
+    nav {
+        float: right; 
+         }  
+     nav ul {
+        list-style: none;
+        overflow: hidden; 
+            } 
+     nav ul li {    
+        float: left;
+        font-family: Arial, sans-serif;
+        font-size: 25px;
+               }
+               nav ul li a {
+                display: block; 
+                padding: 10px 10px;
+                color: rgb(8, 45, 252);
+                text-decoration-line: none;
+                margin-right:100px;
+                         }
+      
+
+
+
+h4{color: rgb(5, 75, 14);
+    text-align: center;
+font-family: fantasy;
+font-size: 70px;}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130px;}
+    h2{color: red;
+    text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 100px;}
+h3{ color: orangered;
+text-align: end;
+font-family: monospace;
+font-size: 30px;}
+    img{width: 500px; height: 300px;
+    position: relative;
+    left: 25%;
+    border-radius: 3em;}
+    #imagen1{
+        border-radius: 4em;
+        position: relative;
+        left: 35%;
+    }
+    #imagen2{width: 400px; height: 220px;
+    position: relative;
+left: 17%;}
+#imagen3{width: 400px; height: 220px;
+    position: relative;
+left: 18%;}
+    
+    #imagen4{width: 350px; height: 220px;
+        border-radius: 4em;
+        position: relative;
+        left: 19%;
+
+    }
+    #imagen5{width: 300px; height: 180px;
+        border-radius:4em;
+    position: relative;
+    left:38%;}
+    #imagen6{width: 100px; height: 100px;
+        border-radius: 1em;
+        position: relative;
+        left: -45%;
+    }
+    p{color: white;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 32px}
+        li{color: white;
+        text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+     font-size: 32px}
+     td{ color: black;
+    text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;}
+caption{ color: blue;
+text-align: center;
+font-family: fantasy;
+font-size: 35px;}
